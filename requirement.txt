@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+cv2 
+math 
+time 
+sys 
+datetime
