@@ -1,4 +1,4 @@
-//This C code is connected to the main code, it creates a pipe and send inputs to Python program "Python_code_final", the Python code processes on the data and return the control to this program.
+//This C code is connected to the main code, it creates a pipe and send inputs to Python program "Python_code_final_optimized", the Python code processes on the data and return the control to this program.
 
 #include <stdio.h>
 #include <stdlib.h>
