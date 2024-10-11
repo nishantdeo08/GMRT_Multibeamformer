@@ -84,7 +84,7 @@ int main() {
         close(fd[0]);
 
 	// Pipe is called
-        FILE* fp = popen("python3 Python_code_final.py", "w");
+        FILE* fp = popen("python3 Python_code_final_optimized.py", "w");
 	fprintf(fp, "%d\n", input_values[0]);
         fprintf(fp, "%d\n", input_values[1]);
         fprintf(fp, "%d\n", input_values[2]);
