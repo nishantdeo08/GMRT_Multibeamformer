@@ -15,7 +15,7 @@ To set up the project on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/USERNAME/PROJECT-NAME.git
+    git clone https://github.com/nishantdeo08/GMRT_Multibeamformer.git
     ```
 2. Create and activate a virtual environment (optional but recommended):
     ```bash
@@ -29,5 +29,5 @@ To set up the project on your local machine:
 
 4. Run the main script:
     ```bash
-    python main.py
+    python Real_Time_Multibeam_Solution_plot_final.py
     ```
